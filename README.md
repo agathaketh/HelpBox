@@ -19,8 +19,7 @@ Os usuários com cargo de técnicos conseguirão visualizar os chamados atribuí
 
 
 ## 📝 Backlog de Produto 📝
-📄 Confira a documentação completa aqui
-
+📄 [Confira a documentação completa aqui] (https://github.com/agathaketh/HelpBox/blob/1f73cc87a0571e1a19c3de9f952d58fb58014377/Product%20Backlog.pdf)
 ## 📆 Cronograma de evolução do produto 📆
 
 | Sprint | Período | Documentação |
