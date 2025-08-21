@@ -36,3 +36,13 @@ Os usuários com cargo de técnicos conseguirão visualizar os chamados atribuí
 <a href="https://www.w3schools.com/sql/default.asp"><img src="https://img.shields.io/badge/MySql-%2300758f?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 
 
+## 💻 Equipe 💻
+
+| Nome     | GitHub | Função     |
+|----------|--------|------------|
+| Vanessa Helena Bandeli Scarin. | [@vanessascarin](https://github.com/vanessascarin) | Product Owner 👩‍💼. |
+| Agatha Kethyllen Ribeiro de Oliveira. | [@agathaketh](https://github.com/agathaketh) | Scrum Master 👩‍💼. |
+| Camilly Vitória Menezes Rodrigues. | [@camillyvii](https://github.com/camillyvii) | Developer Team 👩‍💻. |
+| Guilherme dos Santos Damascena. | [@damascenagui](https://github.com/damascenagui) | Developer Team 👩‍💻. |
+| Micaias Leonardo Costa Viola. | [@micaiasviola](https://github.com/micaiasviola) | Developer Team 👩‍💻. |
+| João Lucas Alves Gregorio. | [@Jotaphp](https://github.com/Jotaphp) | Developer Team 👩‍💻. |
