@@ -24,7 +24,7 @@ Os usuários com cargo de técnicos conseguirão visualizar os chamados atribuí
 
 | Sprint | Período | Documentação |
 |----------|--------|------------|
-| 🎟  **Sprint 1** | 19/08/2025 - 25/08/2025 | Ver no GitHub
+| 🎟  **SPRINT 1** | 19/08/2025 - 25/08/2025 | Ver no GitHub
 
 
 
