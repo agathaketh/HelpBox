@@ -22,10 +22,10 @@ Os usuários com cargo de técnicos conseguirão visualizar os chamados atribuí
 📄 [Confira a documentação completa aqui](https://github.com/agathaketh/HelpBox/blob/1f73cc87a0571e1a19c3de9f952d58fb58014377/Product%20Backlog.pdf)
 ## 📆 Cronograma de evolução do produto 📆
 
-| Sprint | Período | Documentação |
-|----------|--------|------------|
-| 🎟  **SPRINT 1** | 19/08/2025 - 25/08/2025 | [Ver no GitHub](https://github.com/agathaketh/HelpBox/tree/dd74ba598ed25d70067641174d3c459da89be49a/Diagramas%20UML/Casos%20de%20Uso)
-| 🎟  **SPRINT 2** | 26/08/2025 - 01/09/2025 | Ver no GitHub
+| Sprint | Período | Ação | Documentação |
+|----------|--------|------------|------------|
+| 🎟  **SPRINT 1** | 19/08/2025 - 25/08/2025 | Estruturação do GitHub e Diagrama de Caso de Uso | [Ver no GitHub](https://github.com/agathaketh/HelpBox/tree/dd74ba598ed25d70067641174d3c459da89be49a/Diagramas%20UML/Casos%20de%20Uso)
+| 🎟  **SPRINT 2** | 26/08/2025 - 01/09/2025 | | Ver no GitHub
 
 
 ## 💻 Tecnologias Utilizadas 💻
