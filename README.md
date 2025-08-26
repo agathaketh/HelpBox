@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/25c3b68e-e1f5-4edc-9709-054ffd1efca3" width="550"/>
 </div>
 
-<div align="center"> <h1> HelpBox - Projeto de Sistemas Orientados a Objetos </h1> </div>
+<div align="center"> <h1> HelpBox - Projeto de Sistemas Orientado a Objetos </h1> </div>
 
 ## 🎯 Desafio 🎯
 
