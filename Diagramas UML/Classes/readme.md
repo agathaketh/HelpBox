@@ -1,4 +1,4 @@
-<h1> Diagramas de Classe</h1>
+<h1> Diagrama de Classes </h1>
 
 <h2> Classe Chamado:</h2>
 <img width="202" height="198" alt="image" src="https://github.com/user-attachments/assets/8ad11995-3486-4bff-b07c-b7ed5bc171c4" />
