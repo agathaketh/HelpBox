@@ -1,4 +1,4 @@
-<h1> 📑 DoR e DoR </h1>
+<h1> 📑 DoR e DoD </h1>
   
 ## 🧾 Definições Gerais
 
