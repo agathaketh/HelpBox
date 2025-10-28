@@ -42,8 +42,8 @@ Diagrama de classes completo
 
 ## ⏯️ Como executar, usar e testar o projeto ⏯️
 
-## 💼 Acesse a Documentação (DoR, DoD e Manual de Usuário) 💼
-DoR e DoD: de acordo com cada sprint, DoR listar as tarefas a serem feitas e DoD o que foi feito, tudo isso refletindo no Burndown Chart. Manual de Usuário do Figma.
+## 💼 Pasta de Documentação (DoR, DoD e Manual de Usuário) 💼
+📄 [Confira a documentação completa aqui](https://github.com/agathaketh/HelpBox/tree/990108f5af8096da9d85a53d3478f51bdb3a00a8/Pasta%20de%20Documenta%C3%A7%C3%A3o)
 
 ## 💻 Equipe 💻
 
