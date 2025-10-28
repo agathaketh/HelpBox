@@ -54,7 +54,7 @@ Os usuários com cargo de técnicos conseguirão visualizar os chamados atribuí
 
 🧠 Como Usar
 
-- Cada sprint possui um tipo de diagrama (caso de uso, classes, sequência, etc).  
+- Cada sprint possui um tipo de diagrama (caso de uso, classes, sequência, etc). 
 - Utilize os diagramas para entender o **fluxo do sistema**, **relações entre componentes** e **papéis dos usuários**.  
 
 🧪 Como Testar
