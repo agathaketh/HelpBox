@@ -22,7 +22,7 @@ Os usuários com cargo de técnicos conseguirão visualizar os chamados atribuí
 📄 [Confira a documentação completa aqui](https://github.com/agathaketh/HelpBox/blob/0c37c943a37dd0c4b13c1993a1710079725d87e5/ProductBacklog.md)
 
 ## 📈Cronograma de evolução do Projeto 📈
-<img width="468" height="279" alt="Burndown Chart" src="https://github.com/user-attachments/assets/32576b23-26d8-4636-93e4-64372d57300a" />
+<img width="1202" height="709" alt="image" src="https://github.com/user-attachments/assets/b1305efa-7f9b-49a6-9e15-ecd73c79dea1" />
 
 
 ## 📆 Sprint Backlog 📆
