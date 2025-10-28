@@ -22,8 +22,7 @@ Os usuários com cargo de técnicos conseguirão visualizar os chamados atribuí
 📄 [Confira a documentação completa aqui](https://github.com/agathaketh/HelpBox/blob/0c37c943a37dd0c4b13c1993a1710079725d87e5/ProductBacklog.md)
 
 ## 📈Cronograma de evolução do Projeto 📈
-<img width="1202" height="709" alt="image" src="https://github.com/user-attachments/assets/b1305efa-7f9b-49a6-9e15-ecd73c79dea1" />
-
+<img width="468" height="279" alt="Burndown Chart" src="https://github.com/user-attachments/assets/8010dd5c-5012-4550-8a39-c78e60b9ea43" />
 
 ## 📆 Sprint Backlog 📆
 📄 [Confira a documentação completa aqui](https://github.com/agathaketh/HelpBox/blob/69857eff539b91f7effc1274f7157ca48061509d/SprintBacklog.md)
@@ -42,7 +41,7 @@ Os usuários com cargo de técnicos conseguirão visualizar os chamados atribuí
 
 
 ## ⚙️ Estrutura do projeto ⚙️
-<img width="782" height="496" alt="Diagrama de Classe" src="https://github.com/user-attachments/assets/e25487a8-a8a8-411a-bcf3-496620166c47" />
+<img width="1202" height="709" alt="image" src="https://github.com/user-attachments/assets/b1305efa-7f9b-49a6-9e15-ecd73c79dea1" />
 
 
 ## ⏯️ Como executar, usar e testar o projeto ⏯️
