@@ -21,7 +21,10 @@ Os usuários com cargo de técnicos conseguirão visualizar os chamados atribuí
 ## 📝 Backlog de Produto 📝
 📄 [Confira a documentação completa aqui](https://github.com/agathaketh/HelpBox/blob/1f73cc87a0571e1a19c3de9f952d58fb58014377/Product%20Backlog.pdf)
 
-## 📆 Cronograma de evolução do produto 📆
+## 📈Cronograma de evolução do Projeto 📈
+Burndown Chart
+
+## 📆 Sprint Backlog 📆
 📄 [Confira a documentação completa aqui](https://github.com/agathaketh/HelpBox/blob/69857eff539b91f7effc1274f7157ca48061509d/SprintBacklog.md)
 
 
@@ -34,7 +37,13 @@ Os usuários com cargo de técnicos conseguirão visualizar os chamados atribuí
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
 
+## ⚙️ Estrutura do projeto ⚙️
+Diagrama de classes completo
 
+## ⏯️ Como executar, usar e testar o projeto ⏯️
+
+## 💼 Acesse a Documentação (DoR, DoD e Manual de Usuário) 💼
+DoR e DoD: de acordo com cada sprint, DoR listar as tarefas a serem feitas e DoD o que foi feito, tudo isso refletindo no Burndown Chart. Manual de Usuário do Figma.
 
 ## 💻 Equipe 💻
 
