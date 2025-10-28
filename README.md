@@ -19,7 +19,7 @@ Os usuários com cargo de técnicos conseguirão visualizar os chamados atribuí
 
 
 ## 📝 Backlog de Produto 📝
-📄 [Confira a documentação completa aqui](https://github.com/agathaketh/HelpBox/blob/1f73cc87a0571e1a19c3de9f952d58fb58014377/Product%20Backlog.pdf)
+📄 [Confira a documentação completa aqui}(https://github.com/agathaketh/HelpBox/blob/0c37c943a37dd0c4b13c1993a1710079725d87e5/ProductBacklog.md)
 
 ## 📈Cronograma de evolução do Projeto 📈
 Burndown Chart
