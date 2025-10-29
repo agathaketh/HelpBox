@@ -11,8 +11,7 @@ Projetar e desenvolver um sistema integrado baseado em Inteligência Artificial 
 Uma empresa de médio porte possui um setor de TI responsável por atender solicitações internas de suporte técnico. Atualmente todas as requisições são recebidas por e-mail ou telefone, o que gera dificuldades no controle dos chamados, atrasos e falhas da priorização. A empresa deseja adotar um sistema integrado, no qual os colaboradores possam registrar suas solicitações e a IA possa sugerir soluções automáticas ou encaminhar ao técnico adequado com base no histórico de chamados e complexidade do problema.
 
 
-## 📝 Backlog de Produto 📝
-📄 [Confira a documentação completa aqui](https://github.com/agathaketh/HelpBox/blob/0c37c943a37dd0c4b13c1993a1710079725d87e5/ProductBacklog.md)
+## 📝 [Backlog de Produto](https://github.com/agathaketh/HelpBox/blob/0c37c943a37dd0c4b13c1993a1710079725d87e5/ProductBacklog.md) 📝
 
 ## 📈Cronograma de evolução do Projeto 📈
 <img width="468" height="279" alt="Burndown Chart" src="https://github.com/user-attachments/assets/8010dd5c-5012-4550-8a39-c78e60b9ea43" />
