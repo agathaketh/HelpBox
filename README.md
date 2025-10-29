@@ -33,8 +33,6 @@ Uma empresa de médio porte possui um setor de TI responsável por atender solic
 
 ## ⏯️ [Como executar, usar e testar o projeto](https://github.com/agathaketh/HelpBox/blob/d7b0e4110e4f431175a8e54d33cccb961d317c6f/Burndown%20Chart%2C%20Estrutura%20e%20Execu%C3%A7%C3%A3o/Execu%C3%A7%C3%A3o.md) ⏯️
 
----
-
 ## 💼 [Pasta de Documentação (DoR, DoD e Manual de Usuário)](https://github.com/agathaketh/HelpBox/tree/990108f5af8096da9d85a53d3478f51bdb3a00a8/Pasta%20de%20Documenta%C3%A7%C3%A3o) 💼
 
 ## 💻 Equipe 💻
