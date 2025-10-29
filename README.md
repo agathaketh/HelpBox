@@ -13,7 +13,7 @@ Uma empresa de médio porte possui um setor de TI responsável por atender solic
 
 ## 📝 [Backlog de Produto](https://github.com/agathaketh/HelpBox/blob/0c37c943a37dd0c4b13c1993a1710079725d87e5/ProductBacklog.md) 📝
 
-## 📈[Cronograma de evolução do Projeto](https://github.com/agathaketh/HelpBox/blob/ac33865c59cccb5305740df54df811098208495f/Burdown%20Chart%2C%20Estrutura%20e%20Execu%C3%A7%C3%A3o/Burndown%20Chart.md) 📈
+## 📈 [Cronograma de evolução do Projeto](https://github.com/agathaketh/HelpBox/blob/ac33865c59cccb5305740df54df811098208495f/Burdown%20Chart%2C%20Estrutura%20e%20Execu%C3%A7%C3%A3o/Burndown%20Chart.md) 📈
 
 ## 📆 [Sprint Backlog](https://github.com/agathaketh/HelpBox/blob/69857eff539b91f7effc1274f7157ca48061509d/SprintBacklog.md) 📆
 
@@ -29,9 +29,7 @@ Uma empresa de médio porte possui um setor de TI responsável por atender solic
 <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/></a>
 
 
-## ⚙️ Estrutura do projeto ⚙️
-<img width="1202" height="709" alt="image" src="https://github.com/user-attachments/assets/b1305efa-7f9b-49a6-9e15-ecd73c79dea1" />
-
+## ⚙️ [Estrutura do projeto](https://github.com/agathaketh/HelpBox/blob/a1a6614c606705ef0090adb383c33e397457481e/Burndown%20Chart%2C%20Estrutura%20e%20Execu%C3%A7%C3%A3o/Burndown%20Chart.md) ⚙️
 
 ## ⏯️ Como executar, usar e testar o projeto ⏯️
 ⚙️ Como Executar (Visualizar)
