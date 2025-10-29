@@ -31,22 +31,8 @@ Uma empresa de médio porte possui um setor de TI responsável por atender solic
 
 ## ⚙️ [Estrutura do projeto](https://github.com/agathaketh/HelpBox/blob/a1a6614c606705ef0090adb383c33e397457481e/Burndown%20Chart%2C%20Estrutura%20e%20Execu%C3%A7%C3%A3o/Burndown%20Chart.md) ⚙️
 
-## ⏯️ Como executar, usar e testar o projeto ⏯️
-⚙️ Como Executar (Visualizar)
+## ⏯️ [Como executar, usar e testar o projeto](https://github.com/agathaketh/HelpBox/blob/d7b0e4110e4f431175a8e54d33cccb961d317c6f/Burndown%20Chart%2C%20Estrutura%20e%20Execu%C3%A7%C3%A3o/Execu%C3%A7%C3%A3o.md) ⏯️
 
-1. Acesse o repositório no GitHub.  
-2. Vá até a pasta **/Diagramas UML** e selecione a sprint desejada.  
-3. Para visualizar ou editar, baixe o arquivo .asta` e abra na ferramenta Astah. 
-
-🧠 Como Usar
-
-- Cada sprint possui um tipo de diagrama (caso de uso, classes, sequência, etc). 
-- Utilize os diagramas para entender o **fluxo do sistema**, **relações entre componentes** e **papéis dos usuários**.  
-
-🧪 Como Testar
-
-- Verifique se os diagramas estão **coerentes entre si** (ex: classes usadas nos casos de uso e sequência).  
-- Cada diagrama deve atender ao objetivo definido na sua **sprint**.  
 ---
 
 ## 💼 [Pasta de Documentação (DoR, DoD e Manual de Usuário)](https://github.com/agathaketh/HelpBox/tree/990108f5af8096da9d85a53d3478f51bdb3a00a8/Pasta%20de%20Documenta%C3%A7%C3%A3o) 💼
