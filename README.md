@@ -16,9 +16,7 @@ Uma empresa de médio porte possui um setor de TI responsável por atender solic
 ## 📈Cronograma de evolução do Projeto 📈
 <img width="468" height="279" alt="Burndown Chart" src="https://github.com/user-attachments/assets/8010dd5c-5012-4550-8a39-c78e60b9ea43" />
 
-## 📆 Sprint Backlog 📆
-📄 [Confira a documentação completa aqui](https://github.com/agathaketh/HelpBox/blob/69857eff539b91f7effc1274f7157ca48061509d/SprintBacklog.md)
-
+## 📆 [Sprint Backlog](https://github.com/agathaketh/HelpBox/blob/69857eff539b91f7effc1274f7157ca48061509d/SprintBacklog.md) 📆
 
 ## 💻 Tecnologias Utilizadas 💻
 <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
