@@ -52,8 +52,7 @@ Uma empresa de médio porte possui um setor de TI responsável por atender solic
 - Cada diagrama deve atender ao objetivo definido na sua **sprint**.  
 ---
 
-## 💼 Pasta de Documentação (DoR, DoD e Manual de Usuário) 💼
-📄 [Confira a documentação completa aqui](https://github.com/agathaketh/HelpBox/tree/990108f5af8096da9d85a53d3478f51bdb3a00a8/Pasta%20de%20Documenta%C3%A7%C3%A3o)
+## 💼 [Pasta de Documentação (DoR, DoD e Manual de Usuário)](https://github.com/agathaketh/HelpBox/tree/990108f5af8096da9d85a53d3478f51bdb3a00a8/Pasta%20de%20Documenta%C3%A7%C3%A3o) 💼
 
 ## 💻 Equipe 💻
 
