@@ -9,5 +9,5 @@
 | 🎟  **SPRINT 4** | 09/09/2025 - 15/09/2025 | Diagrama de Sequência| [Ver no GitHub](https://github.com/agathaketh/HelpBox/tree/07b7f92c48b43bbd540d422a5eedf7e80376d3f7/Diagramas%20UML/Sequ%C3%AAncia)
 | 🎟  **SPRINT 5** | 16/09/2025 - 22/09/2025 | Diagrama de Colaboração (Comunicação) | [Ver no GitHub](https://github.com/agathaketh/HelpBox/tree/8eacda4c8d0d527d8b1d316aa983bf9382698f7f/Diagramas%20UML/Colabora%C3%A7%C3%A3o(Comunica%C3%A7%C3%A3o))
 | 🎟  **SPRINT 6** | 23/09/2025 - 29/09/2025 | Diagrama de Pacote | [Ver no GitHub](https://github.com/agathaketh/HelpBox/tree/7b8505d9f880cf1d4ec56d5514c9d73e0ad67bc2/Diagramas%20UML/Pacotes)
-| 🎟  **SPRINT 7** | 30/09/2025 - 06/10/2025 | Diagrama de Implantação| Ver no GitHub
-| 🎟  **SPRINT 8** | 07/10/2025 - 13/10/2025 | Diagrama de Estrutura| Ver no GitHub
+| 🎟  **SPRINT 7** | 30/09/2025 - 06/10/2025 | Diagrama de Implantação| [Ver no GitHub](https://github.com/agathaketh/HelpBox/blob/e01671abb0d26b59b56370f3508e10dc4e4b0653/Diagramas%20UML/Implanta%C3%A7%C3%A3o%20e%20Estrutura/README.md)
+| 🎟  **SPRINT 8** | 07/10/2025 - 13/10/2025 | Diagrama de Estrutura| [Ver no GitHub](https://github.com/agathaketh/HelpBox/blob/e01671abb0d26b59b56370f3508e10dc4e4b0653/Diagramas%20UML/Implanta%C3%A7%C3%A3o%20e%20Estrutura/README.md)
