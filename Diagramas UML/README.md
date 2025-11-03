@@ -1,7 +1,3 @@
 # Diagramas UML 
 
-**Caso de Uso:** descreve as funcionalidades (requisitos) do sistema, incluindo os **atores** e mostrando como estes elementos externos interagem com o sistema.
-
-**Classe:** é uma representação visual que mostra a estrutura estática de um sistema, destacando **classes, atributos, métodos e os relacionamentos** entre elas (como associações, heranças e dependências).
-
-**Objetos:** mostra instâncias específicas de classes em um momento do sistema, incluindo valores de atributos e suas conexões.
+Visualização prévia de cada diagrama nas pastas referentes, e [arquivo Astah completo disponível para download.](https://github.com/agathaketh/HelpBox/blob/b8181539ae16db60cd696e78a070f610a68d4f71/Diagramas%20UML/Diagrama%20Completo%20-%20HelpBox.asta)
